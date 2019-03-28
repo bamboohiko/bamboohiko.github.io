@@ -3,8 +3,8 @@ title: sklearn笔记1-Generalized Linear Models
 description: 
 categories:
 - note
-- sklearn
 tags:
+- sklearn
 - machine learning
 - supervised learning
 ---
