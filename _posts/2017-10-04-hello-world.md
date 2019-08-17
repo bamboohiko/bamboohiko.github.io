@@ -1,6 +1,6 @@
 ---
 title: 第一步
-description: 摸鱼了很久之后终于把博客建起来了，开始慢慢种草
+description: 终于把博客建起来了，开始慢慢种草
 categories:
  - tutorial
 tags:
